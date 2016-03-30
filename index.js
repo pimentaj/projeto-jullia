@@ -6,4 +6,6 @@ app.get('/', function (req, res) {
 });
 app.use(express.static('public'));
 app.set('view engine', 'html');
-app.listen(3000)
+var port = process.env.PORT || 3000;
+app.listen(port)
+
