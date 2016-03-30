@@ -1,0 +1,22 @@
+{
+  "name": "projeto-jullia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimentaj/projeto-jullia.git"
+  },
+  "author": "jullia pimenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pimentaj/projeto-jullia/issues"
+  },
+  "homepage": "https://github.com/pimentaj/projeto-jullia#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
